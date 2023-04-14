@@ -5,11 +5,9 @@
 
 - 📫 How to reach me **aknsubbu@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/anandkumar-ns](www.linkedin.com/in/anandkumar-ns)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anandkumar ns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandkumar ns" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anandkumar-ns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandkumar-ns" height="30" width="40" /></a>
 <a href="https://instagram.com/anandkumar_ns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anandkumar_ns" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anandkumar_ns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anandkumar_ns" height="30" width="40" /></a>
 </p>
