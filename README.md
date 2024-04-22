@@ -29,9 +29,3 @@
 [![aknsubbu's GitHub | Stats](https://stats.quine.sh/aknsubbu/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aknsubbu)
 [![aknsubbu's GitHub | Languages Over Time](https://stats.quine.sh/aknsubbu/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aknsubbu)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aknsubbu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aknsubbu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
