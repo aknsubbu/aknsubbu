@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aknsubbu&label=Profile%20views&color=000000&style=flat" alt="aknsubbu" /> </p>
 
-- 🔭 I’m currently working on **mApplied AI**
+- 🔭 I’m currently working on **Applied AI**
 
 - 🌱 I’m currently learning **TensorFlow, NumPy**
 
