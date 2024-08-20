@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on **Applied AI**
 
-- 🌱 I’m currently learning **TensorFlow, NumPy**
+- 🌱 I’m currently learning **AI Agent Crews**
 
-- 👯 I’m looking to collaborate on **finance projects to expand my understanding of the field**
+- 👯 I’m looking to collaborate on **finance and artificial intelligence projects to expand my understanding of the field**
 
 - 🤝 I’m looking for help with **projects and concepts related to finance and machine learning to allow me to better understand and gain experience in the field**
-
-- 💬 Ask me about **React, Next JS, Node JS...**
 
 - 📫 How to reach me **aknsubbu@gmail.com**
 
