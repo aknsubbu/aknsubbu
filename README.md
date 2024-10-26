@@ -1,13 +1,26 @@
 <div align="center">
 
 <h1 align="center">
+  
+```plaintext
              ╔══════════════════════════════════════════════════════════════╗             
              ║                                                              ║             
              ║                   Anandkumar NS • Tech Innovator             ║             
              ║                  AI/ML Developer • Full Stack Engineer       ║             
              ║                                                              ║             
-             ╚══════════════════════════════════════════════════════════════╝
+             ╚══════════════════════════════════════════════════════════════╝             
+```
 </h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4C83FF&center=true&vCenter=true&random=false&width=600&height=60&lines=AI+%26+ML+Development;Full+Stack+Engineering;Applied+AI+Research;Building+Intelligent+Systems)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anandkumar-ns)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aknsubbu@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/aknsubbu)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anandkumar_ns)
+
+</div>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=1000&color=4C83FF&center=true&vCenter=true&random=false&width=600&height=60&lines=AI+%26+ML+Developer;Full+Stack+Engineer;Tech+Innovator;Building+Intelligent+Systems" alt="Typing SVG" />
 
@@ -15,6 +28,7 @@
 <img src="https://img.shields.io/badge/-AI%2FML%20Developer-black?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
 <img src="https://img.shields.io/badge/-Full%20Stack-black?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack"/>
 </div>
+
 
 <div>
   <a href="https://linkedin.com/in/anandkumar-ns"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
