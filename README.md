@@ -1,14 +1,15 @@
 <div align="center">
 
-<h1 align="center">
+<h2 align="center">
+
   
 ```plaintext
-             ╔══════════════════════════════════════════════════════════════╗             
-             ║                                                              ║             
-             ║                   Anandkumar NS • Tech Innovator             ║             
-             ║                  AI/ML Developer • Full Stack Engineer       ║             
-             ║                                                              ║             
-             ╚══════════════════════════════════════════════════════════════╝             
+       ╔══════════════════════════════════════════════════════════════╗             
+       ║                                                              ║             
+       ║                Anandkumar NS • Tech Innovator                ║             
+       ║               AI/ML Developer • Full Stack Engineer          ║             
+       ║                                                              ║             
+       ╚══════════════════════════════════════════════════════════════╝             
 ```
 </h1>
 
