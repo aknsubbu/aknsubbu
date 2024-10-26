@@ -1,12 +1,12 @@
 <div align="center">
   
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                   Anandkumar NS • Tech Innovator             ║
-║                  AI/ML Developer • Full Stack Engineer       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+```plaintext
+             ╔══════════════════════════════════════════════════════════════╗             
+             ║                                                              ║             
+             ║                   Anandkumar NS • Tech Innovator             ║             
+             ║                  AI/ML Developer • Full Stack Engineer       ║             
+             ║                                                              ║             
+             ╚══════════════════════════════════════════════════════════════╝             
 ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4C83FF&center=true&vCenter=true&random=false&width=600&height=60&lines=AI+%26+ML+Development;Full+Stack+Engineering;Applied+AI+Research;Building+Intelligent+Systems)](https://git.io/typing-svg)
