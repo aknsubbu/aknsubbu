@@ -43,12 +43,12 @@ class TechProfile:
         self.name = "Anandkumar NS"
         self.role = "AI/ML Developer & Full Stack Engineer"
         self.current_focus = ["Applied AI", "AI Agent Crews"]
-        self.interests = ["AI/ML Systems", "Financial Technology"]
+        self.interests = ["AI/ML Systems", "Financial Technology", "Music"]
         self.expertise = {
-            "AI/ML": ["TensorFlow", "PyTorch", "Computer Vision"],
-            "Backend": ["Node.js", "Express", "MongoDB", "MySQL"],
-            "Frontend": ["React", "TypeScript", "Tailwind CSS"],
-            "DevOps": ["Git", "Linux", "GCP"]
+            "AI/ML": ["Ollama", "LlamaIndex", "Langchain", "OpenAI API"],
+            "Backend": ["Node.js", "Express", "MongoDB", "MySQL", "PostgreSQL"],
+            "Frontend": ["React", "TypeScript", "Tailwind CSS", "React Native", "Expo"],
+            "DevOps": ["Git", "Linux", "GCP", "Docker"]
         }
     
     def current_projects(self):
