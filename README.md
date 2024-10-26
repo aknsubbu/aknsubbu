@@ -1,74 +1,125 @@
 <div align="center">
-  <h1>👋 Hi, I'm Anandkumar NS</h1>
-  <h3>A Passionate Computer Science Developer from India</h3>
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=aknsubbu&label=Profile%20views&color=000000&style=flat)](https://github.com/aknsubbu)
-  
-  <p>
-    <a href="https://linkedin.com/in/anandkumar-ns"><img src="https://img.shields.io/badge/-Anandkumar%20NS-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:aknsubbu@gmail.com"><img src="https://img.shields.io/badge/-aknsubbu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://instagram.com/anandkumar_ns"><img src="https://img.shields.io/badge/-@anandkumar__ns-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  </p>
+  ```
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                                                              ║
+  ║             Anandkumar NS • Tech Innovator                   ║
+  ║        AI/ML Developer • Full Stack Engineer                 ║
+  ║                                                              ║
+  ╚══════════════════════════════════════════════════════════════╝
+  ```
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4C83FF&center=true&vCenter=true&random=false&width=600&height=60&lines=AI+%26+ML+Development;Full+Stack+Engineering;Applied+AI+Research;Building+Intelligent+Systems)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anandkumar-ns)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aknsubbu@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/aknsubbu)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anandkumar_ns)
+
 </div>
 
----
+### 👨‍💻 About Me
 
-### 🚀 About Me
+```python
+class TechProfile:
+    def __init__(self):
+        self.name = "Anandkumar NS"
+        self.role = "AI/ML Developer & Full Stack Engineer"
+        self.current_focus = ["Applied AI", "AI Agent Crews"]
+        self.interests = ["AI/ML Systems", "Financial Technology"]
+        self.expertise = {
+            "AI/ML": ["TensorFlow", "PyTorch", "Computer Vision"],
+            "Backend": ["Node.js", "Express", "MongoDB", "MySQL"],
+            "Frontend": ["React", "TypeScript", "Tailwind CSS"],
+            "DevOps": ["Git", "Linux", "GCP"]
+        }
+    
+    def current_projects(self):
+        return [
+            "Developing AI Agent Systems",
+            "Building Scalable Web Applications",
+            "Implementing ML Solutions"
+        ]
 
-- 🔭 Currently working on **Applied AI** and exploring **AI Agent Crews**
-- 👯 Eager to collaborate on **finance and artificial intelligence projects**
-- 🤝 Available for freelance work in:
-  - Web Development
-  - App Development
-  - AI Agent-powered applications
-- 💻 Active on [LeetCode](https://www.leetcode.com/aknsubbu) and [HackerRank](https://www.hackerrank.com/anandkumar_ns)
+```
 
----
+### 🔧 Technical Stack
 
-### 🛠️ Tech Stack
+<details>
+<summary><b>AI & Machine Learning</b></summary>
+<br>
 
-#### Languages
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+</details>
 
-#### Web Development
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)
+<details>
+<summary><b>Backend Development</b></summary>
+<br>
 
-#### AI/ML
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+</details>
 
-#### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)
+<details>
+<summary><b>Frontend Development</b></summary>
+<br>
 
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+</details>
 
----
+<details>
+<summary><b>Development Tools & Platforms</b></summary>
+<br>
 
-### 📊 GitHub Analytics
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</details>
+
+### 📊 Analytics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aknsubbu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aknsubbu&theme=github-dark-blue&hide_border=true&background=0D1117"/>
+</div>
 
-[![aknsubbu's GitHub Stats](https://stats.quine.sh/aknsubbu/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aknsubbu)
+<br>
 
-[![aknsubbu's Dependencies](https://stats.quine.sh/aknsubbu/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aknsubbu)
+<div align="center">
+  <!-- Language Usage Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aknsubbu&theme=react-dark&hide_border=true&bg_color=0D1117" width="95%"/>
+</div>
 
-[![aknsubbu's Languages Over Time](https://stats.quine.sh/aknsubbu/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aknsubbu)
+### 🎯 Current Focus
+
+- **AI Development**: Building and optimizing AI agent systems
+- **Full Stack Applications**: Creating scalable web solutions
+- **Research**: Exploring AI agent collaboration methodologies
+- **Open Source**: Contributing to AI/ML communities
+
+### 📫 Professional Contact
+
+<div align="center">
+  
+For professional inquiries and collaboration opportunities:
+- 📧 Email: aknsubbu@gmail.com
+- 💼 LinkedIn: [Anandkumar NS](https://linkedin.com/in/anandkumar-ns)
+- 💻 LeetCode: [aknsubbu](https://leetcode.com/aknsubbu)
+
+<!-- Contribution Graph -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=aknsubbu&color=blue&style=flat-square&label=Profile+Views)
 
 </div>
