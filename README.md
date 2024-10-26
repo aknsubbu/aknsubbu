@@ -125,12 +125,13 @@ class TechProfile:
 
 ### 📫 Professional Contact
 
-<div align="center">
+<div align="start">
   
 For professional inquiries and collaboration opportunities:
 - 📧 Email: aknsubbu@gmail.com
 - 💼 LinkedIn: [Anandkumar NS](https://linkedin.com/in/anandkumar-ns)
 - 💻 LeetCode: [aknsubbu](https://leetcode.com/aknsubbu)
+- [Personal Website](https://anandkumarns.com)
 
 <!-- Contribution Graph -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
